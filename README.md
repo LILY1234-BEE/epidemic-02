@@ -16,6 +16,7 @@ npm run build
 ```
 
 效果预览
+
 1.疫情动态
 
 ![图片](https://user-images.githubusercontent.com/80147607/178675465-0f0900ca-90d4-4ed8-a85d-e22a5651cab6.png)
